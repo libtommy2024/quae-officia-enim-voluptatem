@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/quae-officia-enim-voluptatem",
-  "version": "12.45.524",
+  "version": "12.45.525",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -356,5 +356,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/quae-officia-enim-voluptatem/issues"
   },
-  "packageManager": "yarn@4.11.0"
+  "packageManager": "yarn@4.12.0"
 }
